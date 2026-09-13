@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Revaldy 👋
-
+---
 ### 🚀 About Me
 
 - Founder & Full-Stack Developer at **TheUsualDev** — building digital systems for Indonesian SMBs
