@@ -2,21 +2,15 @@
 
 # Hi there, I'm Revaldy 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fredoka&weight=600&size=24&duration=3000&pause=800&color=FFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Founder+%40+TheUsualDev;Building+Digital+Systems+for+Indonesian+SMBs;)
-
-</div>
-
----
-
 ### 🚀 About Me
 
-- 🏢 Founder & Full-Stack Developer at **TheUsualDev** — building digital systems for Indonesian SMBs
-- 🌊 Started out in hospitality (hotels & cruise lines) before moving into software
-- 🔭 Currently building web & mobile systems with Laravel, React, and Next.js
-- 👯 Open to collaborating on full-stack, POS, or B2B platform projects
-- 💬 Ask me about Laravel, React Native/Expo, or PostgreSQL/MySQL
-- 🤖 Working *with* AI (Claude, Codex, etc.) — Understand the stack, code, and architecture
-- ⚡ Fun fact: went from serving guests on a cruise ship to serving APIs
+- Founder & Full-Stack Developer at **TheUsualDev** — building digital systems for Indonesian SMBs
+- Started out in hospitality (hotels & cruise lines) before moving into software
+- Currently building web & mobile systems with Laravel, React, and Next.js
+- Open to collaborating on full-stack, POS, or B2B platform projects
+- Ask me about Laravel, React Native/Expo, or PostgreSQL/MySQL
+- Working *with* AI (Claude, Codex, etc.) — Understand the stack, code, and architecture
+- Fun fact: went from serving guests on a cruise ship to serving APIs
 
 ---
 
