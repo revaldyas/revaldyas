@@ -15,7 +15,7 @@
 - 🔭 Currently building web & mobile systems with Laravel, React, and Next.js
 - 👯 Open to collaborating on full-stack, POS, or B2B platform projects
 - 💬 Ask me about Laravel, React Native/Expo, or PostgreSQL/MySQL
-- 🤖 Pro at working *with* AI (Claude, Codex, etc.) — not a vibe coder; I understand the stack, code, and architecture behind every line
+- 🤖 Working *with* AI (Claude, Codex, etc.) — Understand the stack, code, and architecture
 - ⚡ Fun fact: went from serving guests on a cruise ship to serving APIs
 
 ---
