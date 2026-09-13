@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi there, I'm Revaldyas Gede 👋
+# Hi there, I'm Revaldy 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Founder+%40+Bale+Software;Building+Digital+Systems+for+Indonesian+SMBs;Ex-Hospitality+%E2%86%92+Software+Engineer)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fredoka&weight=600&size=24&duration=3000&pause=800&color=FFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Founder+%40+TheUsualDev;Building+Digital+Systems+for+Indonesian+SMBs;)
 
 </div>
 
@@ -10,12 +10,12 @@
 
 ### 🚀 About Me
 
-- 🏢 Founder & Full-Stack Developer at **Bale Software** — building digital systems for Indonesian SMBs
+- 🏢 Founder & Full-Stack Developer at **TheUsualDev** — building digital systems for Indonesian SMBs
 - 🌊 Started out in hospitality (hotels & cruise lines) before moving into software
 - 🔭 Currently building web & mobile systems with Laravel, React, and Next.js
-- 🌱 Currently sharpening my fundamentals — deep in vanilla JavaScript
 - 👯 Open to collaborating on full-stack, POS, or B2B platform projects
-- 💬 Ask me about Laravel, React Native/Expo, Strapi, or PostgreSQL
+- 💬 Ask me about Laravel, React Native/Expo, or PostgreSQL/MySQL
+- 🤖 Pro at working *with* AI (Claude, Codex, etc.) — not a vibe coder; I understand the stack, code, and architecture behind every line
 - ⚡ Fun fact: went from serving guests on a cruise ship to serving APIs
 
 ---
@@ -26,27 +26,25 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Strapi](https://img.shields.io/badge/-Strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 🤖 AI-Assisted Development
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=revaldyas&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=revaldyas&layout=compact&theme=radical&hide_border=true" />
-</div>
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/-OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=revaldyas&theme=radical&hide_border=true" />
-</div>
+*Using AI tools daily to move fast — while staying grounded in real understanding of the code and architecture, not just prompting blindly.*
 
 ---
 
 <div align="center">
 
-*📫 Open for freelance work & collaboration — reach out anytime.*
+*Open for freelance work & collaboration — reach out anytime.*
 
 </div>
