@@ -1,7 +1,8 @@
 <div align="left">
 
 # Hi there, I'm Revaldy 👋
----
+
+
 ### 🚀 About Me
 
 - Founder & Full-Stack Developer at **TheUsualDev** — building digital systems for Indonesian SMBs
@@ -12,7 +13,6 @@
 - Working *with* AI (Claude, Codex, etc.) — Understand the stack, code, and architecture
 - Fun fact: went from serving guests on a cruise ship to serving APIs
 
----
 
 ### 🛠️ Tech Stack
 
@@ -26,7 +26,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
 
 ### 🤖 AI-Assisted Development
 
