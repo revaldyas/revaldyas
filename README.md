@@ -32,8 +32,6 @@
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/-OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-*Using AI tools daily to move fast — while staying grounded in real understanding of the code and architecture, not just prompting blindly.*
-
 ---
 
 <div align="center">
