@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 
-- Founder & Full-Stack Developer at **TheUsualDev** — building digital systems for Indonesian SMBs
+- Founder & Full-Stack Developer at **kilostudio.id** — building digital systems for Indonesian SMBs
 - Started out in hospitality (hotels & cruise lines) before moving into software
 - Currently building web & mobile systems with Laravel, React, and Next.js
 - Open to collaborating on full-stack, POS, or B2B platform projects
