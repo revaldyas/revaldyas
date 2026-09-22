@@ -1,6 +1,6 @@
 <div align="left">
 
-# Hi there, I'm Revaldy 👋
+# Hi there, I'm Reva
 
 
 ### 🚀 About Me
@@ -11,7 +11,6 @@
 - Open to collaborating on full-stack, POS, or B2B platform projects
 - Ask me about Laravel, React Native/Expo, or PostgreSQL/MySQL
 - Working *with* AI (Claude, Codex, etc.) — Understand the stack, code, and architecture
-- Fun fact: went from serving guests on a cruise ship to serving APIs
 
 
 ### 🛠️ Tech Stack
@@ -25,12 +24,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-### 🤖 AI-Assisted Development
-
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/-OpenAI%20Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
