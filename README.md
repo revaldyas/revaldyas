@@ -11,6 +11,7 @@
 - Open to collaborating on full-stack, POS, or B2B platform projects
 - Ask me about Laravel, React Native/Expo, or PostgreSQL/MySQL
 - Working *with* AI (Claude, Codex, etc.) — Understand the stack, code, and architecture
+- 🌐 My website: [revaldyas.biz.id](https://revaldyas.biz.id)
 
 
 ### 🛠️ Tech Stack
